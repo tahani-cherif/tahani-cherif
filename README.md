@@ -43,7 +43,7 @@
     </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
          <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></code>  
-    </a>
+    </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
          <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code>  
     </a> 
@@ -95,23 +95,20 @@
     <img alt="link to the repository of my personal portfolio" src="https://github-readme-stats-carol42.vercel.app/api/pin/?username=Carol42&repo=portfolio&theme=midnight-purple&hide_border=true">
 </a>
 </br>
-<a href="[https://portfolio-carol42.vercel.app](https://portfolio-cheriftahani92-gmailcom.vercel.app/)/">
+<a href="https://portfolio-cheriftahani92-gmailcom.vercel.app" target="_blank">
     <img alt="link to my portfolio" src="https://img.shields.io/static/v1?label&message=open+portfolio&color=7E3ACE&style=for-the-badge" />
 </a>
 </br></br>
 
 
 <h2>:thought_balloon: Quote of the day</h2>
-<details open>
-    <summary>See quote</summary>
-    <a href="https://github.com/piyushsuthar/github-readme-quotes">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
-    </a>
-</details>
+<br/>
+         one day i'm gonna have everything i prayed for .i really believe it ❤️
 <h2>:zany_face: Joke of the day</h2>
 <details>
     <summary>See joke</summary>
     <a href="https://github.com/ABSphreak/readme-jokes">
+    <br/>
         <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
     </a>
 </details>
