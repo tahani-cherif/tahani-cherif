@@ -6,9 +6,11 @@
     <h3>Full stack developer and Mobile developer</h3>
 </div>
 <h2>:busts_in_silhouette: Connect with me:</h2>
+<p align="left">
 <a href="https://www.linkedin.com/in/tahani-cherif-50815a214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tahanichdrif" height="30" width="40" /></a>
 <a href="https://www.facebook.com/tahani.chrif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tahanicherif" height="30" width="40" /></a>
-<a href="[https://instagram.com/ihebboughanmii](https://www.instagram.com/cheriftahani/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tahanicherif" height="30" width="40" /></a>
+<a href="https://www.instagram.com/cheriftahani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tahanicherif" height="30" width="40" /></a>
+    </p>
 </br>
 
 <h3 align="left">Languages and Tools:</h3>
