@@ -2,6 +2,7 @@
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
 <div align="center">
+    <h1 align="center">Hi 👋, I'm Tahani Cherif</h1>
     <h3>Full stack developer and Mobile developer</h3>
 </div>
 <h2>:busts_in_silhouette: Connect with me:</h2>
