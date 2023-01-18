@@ -6,20 +6,9 @@
     <h3>Full stack developer and Mobile developer</h3>
 </div>
 <h2>:busts_in_silhouette: Connect with me:</h2>
-<a href="https://github.com/tahani-cherif">
-    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@Carol42" height="22px">
-</a>
-<a href="https://codepen.io/Carol42">
-    <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/Carol42&color=000000&style=for-the-badge&logo=codepen" height="22px" />
-</a>
-</a>
-<a href="https://www.linkedin.com/in/tahani-cherif-50815a214">
-    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/carol42&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
-</a>
-</a>
-<a href="mailto:cheriftahani92@gmail.com">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=carol42.helo@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
-</a>
+<a href="https://www.linkedin.com/in/tahani-cherif-50815a214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tahanichdrif" height="30" width="40" /></a>
+<a href="https://www.facebook.com/tahani.chrif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tahanicherif" height="30" width="40" /></a>
+<a href="[https://instagram.com/ihebboughanmii](https://www.instagram.com/cheriftahani/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tahanicherif" height="30" width="40" /></a>
 </br>
 
 <h3 align="left">Languages and Tools:</h3>
