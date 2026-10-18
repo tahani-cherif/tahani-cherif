@@ -1,10 +1,10 @@
 
-<h1 align="center">Hi, I'm Cherif Tahani 👋</h1>
+<h1 align="center">Hi, I'm Tahani Cherif👋</h1>
 <h3 align="center">Full Stack JavaScript Developer · Cloud & DevOps Engineer</h3>
 
 <p align="center">
   <a href="mailto:cheriftahani92@gmail.com"><img src="https://img.shields.io/badge/Email-cheriftahani92%40gmail.com-0C447C?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/tahani-cherif-50815a214"><img src="https://img.shields.io/badge/LinkedIn-Cherif%20Tahani-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/tahani-cherif-50815a214"><img src="https://img.shields.io/badge/LinkedIn-Tahani%20Cherif-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://img.shields.io/badge/Location-Tunis%2C%20Tunisia-185FA5?style=flat" alt="Location"/>
 </p>
 
